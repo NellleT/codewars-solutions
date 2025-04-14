@@ -1,2 +1,2 @@
-# codewars-solutions
+# solutions
 my simple solutions
